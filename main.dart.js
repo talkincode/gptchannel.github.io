@@ -71490,7 +71490,7 @@ $1(a){return J.Uz(J.bz(J.b5(a,"apikey")),this.a.f)},
 $S:454}
 A.aj2.prototype={
 $2(a,b){var s=t.w,r=a.K(s).f.a.a>600?140:50,q=this.b,p=q.length
-s=a.K(s).f.a.a>600?3:1
+s=a.K(s).f.a.a>600?2:1
 return A.ar2(new A.KO(s,8,8,(b.b-8)/2/r),new A.aj0(this.a,q),p,B.d9)},
 $S:165}
 A.aj0.prototype={
